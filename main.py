@@ -22,7 +22,6 @@ with open('result.csv', 'r') as csvfile:
 
         rows[json_key] = full_row
 
-
 with open('isinRisk.json', 'w') as outfile:
     json.dump(rows, outfile)
 
