@@ -1,4 +1,4 @@
-﻿|;|__name;|__type;|__id;|__fondCategory;|__region;|__investmentDuration;|__investmentDate;|__currency;|__fondSize;|__dividend;|__morningStartRating;|__scope;|__subscriptionFee;|__administrationFee;|__costs;|__taxFree;|__vlCapable;|__savingsPlans;|__schedule;|__detailPage
+﻿;name;type;id;fondCategory;region;investmentDuration;investmentDate;currency;fondSize;dividend;morningStartRating;scope;subscriptionFee;administrationFee;costs;taxFree;vlCapable;savingsPlans;schedule;detailPage
 DE0001619997;MEAG Nachhaltigkeit A;Risikoorientiert;4;Weltweiter Aktienfonds;Weltweit;8;10.01.03;Euro;0 Mio;Ausschüttung;3;D;5,00 %;1,50 %;1,64 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE0001619997.html
 DE0009754119;MEAG ProInvest;Risikoorientiert;4;Deutscher Aktienfonds;Deutschland;8;10.04.90;Euro;0 Mio;Ausschüttung;4;B;5,00 %;1,25 %;1,31 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE0009754119.html
 DE0009754333;MEAG EuroInvest A;Risikoorientiert;4;Europäischer Aktienfonds;Europa;8;30.03.1998;Euro;0 Mio;Ausschüttung;4;A;5,00 %;1,25 %;1,27 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE0009754333.html
