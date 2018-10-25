@@ -1,0 +1,40 @@
+﻿|;|__name;|__type;|__id;|__fondCategory;|__region;|__investmentDuration;|__investmentDate;|__currency;|__fondSize;|__dividend;|__morningStartRating;|__scope;|__subscriptionFee;|__administrationFee;|__costs;|__taxFree;|__vlCapable;|__savingsPlans;|__schedule;|__detailPage
+DE0001619997;MEAG Nachhaltigkeit A;Risikoorientiert;4;Weltweiter Aktienfonds;Weltweit;8;10.01.03;Euro;0 Mio;Ausschüttung;3;D;5,00 %;1,50 %;1,64 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE0001619997.html
+DE0009754119;MEAG ProInvest;Risikoorientiert;4;Deutscher Aktienfonds;Deutschland;8;10.04.90;Euro;0 Mio;Ausschüttung;4;B;5,00 %;1,25 %;1,31 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE0009754119.html
+DE0009754333;MEAG EuroInvest A;Risikoorientiert;4;Europäischer Aktienfonds;Europa;8;30.03.1998;Euro;0 Mio;Ausschüttung;4;A;5,00 %;1,25 %;1,27 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE0009754333.html
+DE0009757443;MEAG EuroRent A;Defensiv;1;Europäischer Rentenfonds;Europa;4;31.05.1991;Euro;0 Mio;Ausschüttung;3;-;3,50 %;0,80 %;0,84 %;-;nein;ja;ja;/de/investieren/privatkunden/DE0009757443.html
+DE0009757450;MEAG EuroBalance;Dynamisch;3;Europäischer Mischfonds;Europa;6;;Euro;0 Mio;Ausschüttung;5;B;4,00 %;1,03 %;1,10 %;30%;nein;ja;ja;/de/investieren/privatkunden/DE0009757450.html
+DE0009757468;MEAG EuroKapital;Risikoorientiert;4;Europäischer Mischfonds;Europa;8;31.05.1991;Euro;0 Mio;Ausschüttung;4;-;5,00 %;1,25 %;1,36 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE0009757468.html
+DE0009757484;MEAG EuroFlex;Stabil;0;Europäischer Rentenfonds;Europa;1;10.01.92;Euro;0 Mio;Ausschüttung;3;-;1,00 %;0,30 %;0,37 %;-;nein;ja;ja;/de/investieren/privatkunden/DE0009757484.html
+DE0009782722;MEAG MM-Fonds 100;Ausgewogen;2;Europäischer Mischfonds;Weltweit;5;;Euro;0 Mio;Ausschüttung;-;A;5%;1%;1%;30%;nein;nein;nein;/de/investieren/privatkunden/1318.html
+DE0009782730;MEAG EuroErtrag A;Ausgewogen;2;Europäischer Mischfonds;Europa;5;10.02.00;Euro;0 Mio;Ausschüttung;5;B;3,50 %;0,91 %;0,95 %;15 %;nein;ja;ja;/de/investieren/privatkunden/DE0009782730.html
+DE0009782763;MEAG GlobalBalance DF;Ausgewogen;2;Weltweiter Dachfonds;Weltweit;5;10.02.00;Euro;0 Mio;Ausschüttung;4;B;4,00 %;1,10 %;1,86 %;15 %;nein;ja;ja;/de/investieren/privatkunden/DE0009782763.html
+DE0009782789;MEAG GlobalChance DF;Risikoorientiert;4;Weltweiter Dachfonds;Weltweit;8;10.02.00;Euro;0 Mio;Ausschüttung;2;D;5,00 %;1,50 %;2,32 %;30%;nein;ja;ja;/de/investieren/privatkunden/DE0009782789.html
+DE000A0HF426;MEAG EuroCorpRent I;Ausgewogen;2;Europäischer Rentenfonds;Weltweit;5;;Euro;0 Mio;Ausschüttung;4;-;5%;1%;1%;30%;nein;nein;nein;
+DE000A0HF467;MEAG EuroRent I;Defensiv;1;Europäischer Rentenfonds;Weltweit;4;;Euro;0 Mio;Ausschüttung;4;-;5%;1%;1%;30%;nein;nein;nein;
+DE000A0HF483;MEAG EuroInvest I;Risikoorientiert;4;Europäischer Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;5;A;5%;1%;1%;30%;nein;nein;nein;
+DE000A0HMMW7;MEAG RealReturn;Defensiv;1;Europäischer Rentenfonds;Europa;5;15.07.2011;Euro;0 Mio;Ausschüttung;3;-;3,50 %;0,80 %;0,99 %;-;nein;ja;ja;/de/investieren/privatkunden/DE000A0HMMW7.html
+DE000A0RFJ25;MEAG FairReturn A;Defensiv;1;Europäischer Mischfonds;Europa;4;15.03.2010;Euro;0 Mio;Ausschüttung;-;B;3,00 %;0,90 %;0,96 %;-;nein;ja;ja;/de/investieren/privatkunden/DE000A0RFJ25.html
+DE000A0RFJW6;MEAG FairReturn I;Defensiv;1;Europäischer Mischfonds;Weltweit;4;;Euro;0 Mio;Ausschüttung;-;B;5%;1%;1%;30%;nein;nein;nein;
+DE000A1144V8;MEAG GlobalRent A;Defensiv;1;Weltweiter Rentenfonds;Weltweit;5;;Euro;0 Mio;Ausschüttung;-;-;5,00 %;1%;1%;30%;nein;nein;nein;/de/investieren/privatkunden/DE000A1144V8.html
+DE000A1144W6;MEAG GlobalRent I;Defensiv;1;Weltweiter Rentenfonds;Weltweit;5;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+DE000A1144X4;MEAG EM Rent Nachhaltigkeit A;Dynamisch;3;Weltweiter Rentenfonds;Weltweit;6;15.10.2014;Euro;0 Mio;Ausschüttung;2;-;4,00 %;0,90 %;1,04 %;-;nein;ja;ja;/de/investieren/privatkunden/DE000A1144X4.html
+DE000A1144Y2;MEAG EM Rent Nachhaltigkeit I;Dynamisch;3;Weltweiter Rentenfonds;Weltweit;6;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+DE000A141UM5;MEAG EuroErtrag I;Ausgewogen;2;Europäischer Mischfonds;Weltweit;5;;Euro;0 Mio;Ausschüttung;-;B;5%;1%;1%;30%;nein;nein;nein;
+DE000A141UR4;MEAG Short-Term High Yield;Defensiv;1;Weltweiter Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+DE000A1JJJP7;MEAG VermögensAnlage Komfort;Ausgewogen;2;Weltweiter Mischfonds;Weltweit;5;02.01.12;Euro;0 Mio;Ausschüttung;3;C;3,50 %;1,0 %;1,22 %;30%;nein;ja;ja;/de/investieren/privatkunden/DE000A1JJJP7.html
+DE000A1JJJR3;MEAG VermögensAnlage Return A;Dynamisch;3;Weltweiter Mischfonds;Weltweit;6;02.01.12;Euro;0 Mio;Ausschüttung;4;B;4,00 %;1,10 %;1,36 %;30%;nein;ja;ja;/de/investieren/privatkunden/DE000A1JJJR3.html
+DE000A1JJJS1;MEAG VermögensAnlage Return I;Dynamisch;3;Weltweiter Mischfonds;Weltweit;6;;Euro;0 Mio;Ausschüttung;4;B;5%;1%;1%;30%;nein;nein;nein;
+DE000A1W1825;MEAG    EuroCorpRent A;Ausgewogen;2;Europäischer Rentenfonds;Europa;5;01.02.17;Euro;0 Mio;Ausschüttung;-;-;3,50 %;0,90 %;1,02 %;-;nein;ja;ja;/de/investieren/privatkunden/DE000A1W1825.html
+DE000A1W18W8;MEAG Dividende A;Risikoorientiert;4;Europäischer Aktienfonds;Europa;8;04.01.16;Euro;0 Mio;Ausschüttung;-;-;5,00 %;1,50 %;1,69 %;30%;ja;ja;ja;/de/investieren/privatkunden/DE000A1W18W8.html
+DE000A1W18X6;MEAG Dividende I;Risikoorientiert;4;Europäischer Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+DE000A2AMSJ2;MEAG MultiSmart A;Defensiv;1;Europäischer Mischfonds;Europa;4;04.03.17;Euro;0 Mio;Ausschüttung;-;-;3,50 %;0,90 %;1,23 %;30%;nein;ja;ja;/de/investieren/privatkunden/DE000A2AMSJ2.html
+DE000A2AMSK0;MEAG MultiSmart I;Risikoorientiert;4;Weltweiter Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+DE000A2ARYP6;ERGO Vermögensmanagement Flexibel;Dynamisch;3;Weltweiter Mischfonds;Weltweit;6;15.03.2017;Euro;0 Mio;Ausschüttung;-;-;5,00 %;1,35 %;1,58 %;30%;nein;ja;ja;/de/investieren/privatkunden/DE000A2ARYP6.html
+DE000A2ARYR2;ERGO Vermögensmanagement Robust;Defensiv;1;Weltweiter Mischfonds;Weltweit;4;15.03.2017;Euro;0 Mio;Ausschüttung;-;-;4,00 %;0,95 %;1,20 %;15 %;nein;ja;ja;/de/investieren/privatkunden/DE000A2ARYR2.html
+DE000A2ARYT8;ERGO Vermögensmanagement Ausgewogen;Ausgewogen;2;Weltweiter Mischfonds;Weltweit;5;15.03.2017;Euro;0 Mio;Ausschüttung;-;-;4,50 %;1,15 %;1,37 %;15 %;nein;ja;ja;/de/investieren/privatkunden/DE000A2ARYT8.html
+LU0887262433;MEAG FlexConcept - Basis;Stabil;0;Weltweiter Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+LU0887262516;MEAG FlexConcept - Wachstum;Ausgewogen;2;Weltweiter Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+LU1136925028;MEAG FlexConcept - EuroGrowth;Ausgewogen;2;Weltweiter Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+LU1227599039;MEAG FlexConcept - EuroBond;Defensiv;1;Weltweiter Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;
+LU1805532824;MEAG FlexConcept - Best5USD;Ausgewogen;2;Weltweiter Aktienfonds;Weltweit;8;;Euro;0 Mio;Ausschüttung;-;-;5%;1%;1%;30%;nein;nein;nein;/de/investieren/institutionelle-kunden/4736.html
